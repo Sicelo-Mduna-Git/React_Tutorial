@@ -1,10 +1,11 @@
 import './App.css'
+import Message from './Components/Message'
 
 function App() {
 
   return (
     <>
-      <p>Hello World</p>
+      <Message/>
     </>
   )
 }
